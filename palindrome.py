@@ -7,3 +7,4 @@ if check(s):
     print("Palindrome")
 else:
     print("Not a palindrome")
+    
